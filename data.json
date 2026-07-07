@@ -1,0 +1,32 @@
+[
+  {
+    "name": "victor militino",
+    "tag": "tag001",
+    "image_path": "faces/victor militino",
+    "id": "a9ed5afc034149648ae0d85aaad51af9"
+  },
+  {
+    "name": "yasmin lucena",
+    "tag": "tag102",
+    "image_path": "faces/yasmin lucena",
+    "id": "a06d6c6b59304bfca46621bf86188781"
+  },
+  {
+    "name": "Arthur",
+    "tag": "01020304",
+    "image_path": "faces/Arthur",
+    "id": "1ad2860cdfa34b6db38e7d8a9e8c6698"
+  },
+  {
+    "name": "Victor Militino",
+    "tag": "01020304",
+    "image_path": "faces/Victor Militino",
+    "id": "dc3aaeb6128f47a2b63995a6f7a4ff40"
+  },
+  {
+    "name": "victor militino",
+    "tag": "01020304",
+    "image_path": "faces/victor militino",
+    "id": "5cc696f4ea794b79a160ade80bb36f76"
+  }
+]
